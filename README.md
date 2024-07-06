@@ -41,3 +41,18 @@ Competências: JIRA ·Rastreamento de bugs · Teste de interface do usuário.
 - Relatórios de bugs da API
 
 Competências: JIRA · HTTP · Teste de API · Postman.
+
+### 5. Projeto Final
+
+##### Projeto: testar a versão web e a API do Urban Scooter, fazer o design e executar verificações, além de enviar relatórios de bugs.
+
+- Elaborei um fluxograma de funcionamento do APP;
+- Relatei bugs utilizando o Jira;
+- Criei mapa mental através do draw.io
+- Realizei testes de classe de equivalência e limites
+- Testei o front-end
+- Realizei testes funcionais
+- Realizei testes de Interface Gráfica de Usuário (GUI Testing)
+  
+Competências: Postman API · JIRA · Draw.io · Mapeamento mental · Testes de GUI · Testes de API · Geração de casos de teste · Teste de interface do usuário.
+
