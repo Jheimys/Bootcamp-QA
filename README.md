@@ -31,3 +31,13 @@ Competências: Análise de requisitos · Design de Teste · Casos de Teste
 - Casos de teste e teste: a lógica dos recursos de reserva
   
 Competências: JIRA ·Rastreamento de bugs · Teste de interface do usuário.
+
+### 4. Teste de API 
+
+##### Projeto: Testar a API do aplicativo Urban Grocers
+
+- Checklist da API
+- Testes de Endpoints
+- Relatórios de bugs da API
+
+Competências: JIRA · HTTP · Teste de API · Postman.
