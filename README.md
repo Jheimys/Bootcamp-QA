@@ -21,7 +21,9 @@ Competências: Teste de Fumaça · Teste de regressão · Relatório de bugs
 Competências: Análise de requisitos · Design de Teste · Casos de Teste
 
 
-### 3.Urban.Routes APP
+### 3. Teste de aplicativo web Urban.Routes 
+
+##### Projeto: Testar o frontend do do aplicativo Urban.Routes, fazer o design e realizar testes, além de emitir relatporios de bugs
 
 - Elaborei um fluxograma de funcionamento do APP;
 - Relatei bugs utilizando o Jira;
