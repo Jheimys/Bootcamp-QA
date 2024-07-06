@@ -25,12 +25,9 @@ Competências: Análise de requisitos · Design de Teste · Casos de Teste
 
 ##### Projeto: Testar o frontend do do aplicativo Urban.Routes, fazer o design e realizar testes, além de emitir relatporios de bugs
 
-- Elaborei um fluxograma de funcionamento do APP;
-- Relatei bugs utilizando o Jira;
-- Criei mapa mental através do draw.io
-- Realizei testes de classe de equivalência e limites
-- Testei o front-end
-- Realizei testes funcionais
-- Realizei testes de Interface Gráfica de Usuário (GUI Testing)
+- Checklist e resultados de teste: teste de layout
+- Checklist e resultados de teste: teste das janelas "Método de pagamento" e "Adicionar cartão"
+- Casos de teste e teste: a lógica do botão "Reservar"
+- Casos de teste e teste: a lógica dos recursos de reserva
   
-Competências: Postman API · JIRA · Draw.io · Mapeamento mental · Testes de GUI · Testes de API · Geração de casos de teste · Teste de interface do usuário.
+Competências: JIRA ·Rastreamento de bugs · Teste de interface do usuário.
