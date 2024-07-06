@@ -11,15 +11,13 @@
 
 Competências: Teste de Fumaça · Teste de regressão · Relatório de bugs
 
-### 2.Urban.Groceries APP
+### 2. Urban.Route.
 
-##### 
-- Elaborei uma planilha de testes utilizando o Excel;
-- Desenvolvi testes de API em Json no Postman.
-- GUI Testing
-- Criei relatórios de bug
-  
-Competências: Postman API · JavaScript · JSON - Jira
+##### Projeto: Conduzir análise de requieitos e design de teste para o aplicativo Urban Route.
+- Criei um mapa mental e fluxograma do aplicativo Urban.Route
+- Realizei testes de classe de equivalência e limites
+- Criei checklists e casos de teste 
+Competências: Análise de requisitos · Design de Teste · Casos de Teste
 
 
 ### 3.Urban.Routes APP
