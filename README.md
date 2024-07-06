@@ -4,13 +4,12 @@
 
 ### 1.Urban.Scooter APP
 
-##### Projeto: Demonstração de habilidades em teste de software.
-- Criei uma lista de verificação de dados (validação do layout e funcionalidades em navegadores distintos)
-- Criei uma lista de validadação de dados (validação de classes e limites)
-- Criei e executei testes de API utilizando o Postman
-- Relatei todos os Bugs no Jira
+##### Projeto: Realizar o teste de regressão do aplicativo web Urban Route conforme os checklists e os casos de teste. Compilar relatórios de bugs.
+- Testei novos recursos de software
+- Garanti que as alterações no software não criem novos erros
+- Criei relatórios de bugs completos que descrevem problemas com o software
 
-Competências: Fluxogramas · Draw.io · JIRA · Planejamento de testes
+Competências: Teste de Fumaça · Teste de regressão · Relatório de bugs
 
 ### 2.Urban.Groceries APP
 
