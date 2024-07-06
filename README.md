@@ -16,7 +16,8 @@ Competências: Teste de Fumaça · Teste de regressão · Relatório de bugs
 ##### Projeto: Conduzir análise de requieitos e design de teste para o aplicativo Urban Route.
 - Criei um mapa mental e fluxograma do aplicativo Urban.Route
 - Realizei testes de classe de equivalência e limites
-- Criei checklists e casos de teste 
+- Criei checklists e casos de teste
+  
 Competências: Análise de requisitos · Design de Teste · Casos de Teste
 
 
