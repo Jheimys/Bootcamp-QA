@@ -1,4 +1,4 @@
-# **Projeto 2 – Design de Testes: Urban Routes (Sprint 2)**
+# **Sprint 2 – Projeto: Design de Testes: Urban Routes **
 
 > *Projeto de QA focado em **design de testes**, **criação de casos de teste** e **análise de requisitos** para novo recurso do aplicativo Urban Routes.*
 
