@@ -72,7 +72,7 @@ Principais atividades:
 
 ---
 
-## **5. Projeto Final – Testes Web e API (Urban Scooter)**
+## **5. [Projeto Final – Testes Web e API (Urban Scooter)](https://github.com/Jheimys/Bootcamp-QA/tree/master/Projeto-final)**
 
 Projeto integrador que uniu **testes funcionais, GUI e de API**, além de práticas avançadas de documentação.  
 Principais atividades:
