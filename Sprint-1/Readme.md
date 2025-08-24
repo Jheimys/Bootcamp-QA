@@ -1,5 +1,7 @@
 # **Projeto 1 – Teste de Regressão: Urban Routes**
 
+> *Projeto de QA focado em teste de regressão, reporte de bugs e validação funcional de um aplicativo de rotas.*
+
 ## **Descrição do Projeto**
 O **Urban Routes** é um aplicativo de rotas que calcula **tempo** e **custo de viagem** para diferentes tipos de transporte.  
 A interface é intuitiva, com campos para **endereços de origem e destino**, modos de rota (**Optimal**, **Flash**, **Personal**) e opções de transporte como **carro próprio, a pé, táxi, bicicleta, scooter e compartilhamento de carro**.  
@@ -11,7 +13,6 @@ O objetivo deste projeto foi **executar um teste de regressão completo** no apl
   <br>
   <em>Figura 1: Tela do aplicativo Urban Routes</em>
 </p>
-
 
 ---
 
@@ -54,10 +55,26 @@ O objetivo deste projeto foi **executar um teste de regressão completo** no apl
 
 ---
 
+## **Habilidades Desenvolvidas**
+- **Execução e análise de testes de regressão**.  
+- **Documentação eficiente de bugs e casos de teste**.  
+- **Priorização e classificação de defeitos**.  
+- **Colaboração com equipes de desenvolvimento**.  
+- **Atenção aos detalhes e melhoria contínua em QA**.  
+
+---
+
 ## **Resultados Esperados**
 - Garantia da **qualidade e estabilidade** do Urban Routes para o usuário final.  
 - **Feedback rápido e acionável** para a equipe de desenvolvimento.  
 - **Base sólida para os próximos sprints** de evolução do produto.  
+
+---
+
+## **Próximos Passos**
+- Automação dos casos de teste utilizando **Selenium ou Cypress**.  
+- Integração dos testes em um **pipeline CI/CD**.  
+- Acompanhamento contínuo da qualidade em releases futuros.  
 
 ---
 
