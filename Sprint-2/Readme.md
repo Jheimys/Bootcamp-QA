@@ -1,63 +1,100 @@
-# **Projeto 1 – Teste de Regressão: Urban Routes**
+# **Sprint 2 – Projeto: Design de Testes: Urban Routes**
+
+> *Projeto de QA focado em **design de testes**, **criação de casos de teste** e **análise de requisitos** para novo recurso do aplicativo Urban Routes.*
 
 ## **Descrição do Projeto**
-O **Urban Routes** é um aplicativo de rotas que calcula **tempo** e **custo de viagem** para diferentes tipos de transporte.  
-A interface é intuitiva, com campos para **endereços de origem e destino**, modos de rota (**Optimal**, **Flash**, **Personal**) e opções de transporte como **carro próprio, a pé, táxi, bicicleta, scooter e compartilhamento de carro**.  
+No **Sprint 2**, o objetivo foi projetar testes para o novo recurso de **compartilhamento de carros** do Urban Routes, com foco específico no **formulário "Adicionar carteira de motorista"**.  
 
-O objetivo deste projeto foi **executar um teste de regressão completo** no aplicativo, identificar falhas e reportar bugs de forma clara e precisa, garantindo uma experiência confiável ao usuário.  
+O trabalho envolveu **definição de classes de equivalência**, **valores-limite** e **elaboração de casos de teste** com base nos requisitos do produto, garantindo uma cobertura ampla e eficaz antes da execução dos testes.  
 
 <p align="center">
-  <img src="https://github.com/Jheimys/assets/blob/master/sprint1-UR.png" alt="Urban Routes - Tela do Projeto" width="600"/>
+  <img src="https://github.com/Jheimys/assets/blob/master/sp2-form1.png" alt="Urban Routes - Formulário Adicionar Carteira de Motorista (Parte 1)" width="600"/>
   <br>
-  <em>Figura 1: Tela do aplicativo Urban Routes</em>
+  <em>Figura 1: Formulário "Adicionar carteira de motorista" – Parte 1</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Jheimys/assets/blob/master/sp2-form2.png" alt="Urban Routes - Formulário Adicionar Carteira de Motorista (Parte 2)" width="600"/>
+  <br>
+  <em>Figura 2: Formulário "Adicionar carteira de motorista" – Parte 2</em>
+</p>
 
 ---
 
 ## **Objetivos do Projeto**
-- Validar a **funcionalidade principal** do Urban Routes através de testes manuais.  
-- **Identificar, documentar e priorizar bugs** para melhoria contínua do produto.  
-- Assegurar que **novas funcionalidades não comprometessem recursos já existentes**.  
+- Realizar **análise de requisitos** do recurso de **compartilhamento de carros**.  
+- **Definir classes de equivalência e valores-limite** para os campos do formulário.  
+- **Criar casos de teste claros e estruturados** para o campo **Nome**, contemplando cenários positivos e negativos.  
 
 ---
 
+## **Evidências das Atividades**
+### **1. Classes de Equivalência e Limites**
+- A matriz abaixo apresenta exemplos extraídos da análise do campo Nome , evidenciando cenários testados, limites e respostas esperadas
+<p align="center">
+  <img src="https://github.com/Jheimys/assets/blob/master/sp2-ev1.png" alt="Urban Routes - Formulário Adicionar Carteira de Motorista (Parte 2)" width="900"/>
+  <br>
+</p>
+
+
+### **2. Casos de Teste: Cálculo de Tempo e Custo**
+- A documentação dos casos de teste para o projeto do tempo e custo de viagem nas Rotas Urbanas também foi registrada:
+<p align="center">
+  <img src="https://github.com/Jheimys/assets/blob/master/sp2-ev2.png" alt="Urban Routes" width="900"/>
+  <br>
+</p>
+
+
+---
 ## **Responsabilidades e Atividades Realizadas**
-### **1. Preparação do Ambiente**
-- Inicialização e execução do servidor da aplicação.  
-- Validação do ambiente de testes utilizando **Google Chrome (última versão)**.  
+### **1. Análise de Requisitos**
+- Estudo da seção "Adicionar carteira de motorista" na documentação do Urban Routes.  
+- Identificação de campos obrigatórios e regras de negócio relevantes.  
 
-### **2. Execução de Casos de Teste**
-- Testes baseados em **casos previamente definidos** pela equipe de QA.  
-- Validação de **fluxos críticos de criação de rotas** e cálculo de tempo/custo.  
-- Registro de resultados com status **Aprovado, Reprovado ou Ignorado**.  
+### **2. Definição de Classes de Equivalência e Valores-Limite**
+- Análise detalhada dos campos **Nome**, **Sobrenome** e **Data de nascimento**.  
+- Criação de classes positivas e negativas para validação.  
+- Determinação de **valores-limite** para entradas válidas e inválidas.  
 
-### **3. Relatórios de Bugs**
-- Documentação de falhas encontradas com informações detalhadas:  
-  - **ID, título, etapas de reprodução, resultados esperados e reais, prioridade**.  
-- Classificação de bugs por **prioridade**: Bloqueador, Crítico, Grande, Pequeno, Trivial.  
-- Utilização de planilhas no **Google Sheets** para gestão de casos de teste e bugs.  
+### **3. Criação de Casos de Teste**
+- Desenvolvimento de casos de teste para o campo **Nome**.  
+- Cobertura de **cenários positivos** (entradas válidas) e **negativos** (entradas inválidas).  
+- Registro dos casos no **Google Sheets**, garantindo rastreabilidade e clareza.  
 
 ---
 
 ## **Principais Contribuições**
-- **Mapeamento e reporte de inconsistências críticas** que poderiam impactar a experiência do usuário.  
-- **Melhoria na rastreabilidade** entre casos de teste e bugs identificados.  
-- **Documentação estruturada**, facilitando a comunicação com a equipe de desenvolvimento.  
+- **Documentação completa e bem estruturada**, servindo de base para execução futura dos testes.  
+- **Cobertura abrangente de cenários**, reduzindo riscos de falhas em produção.  
+- **Aprimoramento do processo de QA** com práticas de análise de requisitos e design de testes.  
 
 ---
 
 ## **Tecnologias e Ferramentas Utilizadas**
-- **Google Sheets** (gestão de casos de teste e relatórios de bugs).  
-- **Google Chrome** (execução de testes).  
-- **Metodologias de QA**: Teste de Regressão, Reporte de Bugs, Priorização de Defeitos.  
+- **Google Sheets** (criação de classes de equivalência e casos de teste).  
+- **Técnicas de QA**: Particionamento em Classes de Equivalência, Análise de Valores-Limite, Design de Testes Baseado em Requisitos.  
+
+---
+
+## **Habilidades Desenvolvidas**
+- **Análise de requisitos para QA**.  
+- **Design de testes utilizando classes de equivalência e valores-limite**.  
+- **Documentação de casos de teste com clareza e objetividade**.  
+- **Planejamento de cenários positivos e negativos para testes robustos**.  
 
 ---
 
 ## **Resultados Esperados**
-- Garantia da **qualidade e estabilidade** do Urban Routes para o usuário final.  
-- **Feedback rápido e acionável** para a equipe de desenvolvimento.  
-- **Base sólida para os próximos sprints** de evolução do produto.  
+- **Base sólida para execução dos testes** no próximo sprint.  
+- **Redução de riscos e erros potenciais** antes da fase de desenvolvimento avançado.  
+- **Melhoria na comunicação entre QA e equipe de desenvolvimento**.  
+
+---
+
+## **Próximos Passos**
+- Implementação e execução dos casos de teste criados.  
+- Expansão do design de testes para os campos **Sobrenome** e **Data de nascimento**.  
+- Avaliação da possibilidade de **automatização dos testes** em ciclos futuros.  
 
 ---
 
