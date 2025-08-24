@@ -28,6 +28,24 @@ O trabalho envolveu **definição de classes de equivalência**, **valores-limit
 
 ---
 
+## **Evidências das Atividades**
+### **1. Classes de Equivalência e Limites**
+- A matriz abaixo apresenta exemplos extraídos da análise do campo Nome , evidenciando cenários testados, limites e respostas esperadas
+<p align="center">
+  <img src="https://github.com/Jheimys/assets/blob/master/sp2-ev1.png" alt="Urban Routes - Formulário Adicionar Carteira de Motorista (Parte 2)" width="900"/>
+  <br>
+</p>
+
+
+### **2. Casos de Teste: Cálculo de Tempo e Custo**
+- A documentação dos casos de teste para o projeto do tempo e custo de viagem nas Rotas Urbanas também foi registrada:
+<p align="center">
+  <img src="https://github.com/Jheimys/assets/blob/master/sp2-ev2.png" alt="Urban Routes" width="900"/>
+  <br>
+</p>
+
+
+---
 ## **Responsabilidades e Atividades Realizadas**
 ### **1. Análise de Requisitos**
 - Estudo da seção "Adicionar carteira de motorista" na documentação do Urban Routes.  
